@@ -23,4 +23,3 @@ Your task is to:
 
 Rules:
 - symlinks should be created in the .claude folder, pointing to the files in the .agents folder
-- use only the tools listed in `allowed-tools` frontmatter
