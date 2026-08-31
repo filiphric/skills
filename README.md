@@ -21,6 +21,8 @@ npx skills add filiphric/skills create-symlinks
 | Skill | Description |
 | --- | --- |
 | `create-symlinks` | Syncs `.claude` and `.agents` by moving real files to `.agents` and creating symlinks in `.claude`. |
+| `curiosity-gap` | Helps reframe a title or text using the "curiosity gap" principle. |
+| `yt-dlp` | Downloads a video, transcript, or audio from a link using yt-dlp. |
 
 ## Repository Structure
 
